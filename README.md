@@ -3,7 +3,8 @@ This repository contains code to work with preloaded TensorFlow datasets, implem
 
 Features:
 
-Utilizes TensorFlow datasets for seamless data handling.
-Implements CNN and Sequential learning models.
-Visualizes training progress with loss and accuracy graphs.
-Explore the codes to effectively apply deep learning techniques on preloaded datasets using TensorFlow.
+* Utilizes TensorFlow datasets for seamless data handling.
+* Implements CNN and Sequential learning models.
+* Visualizes training progress with loss and accuracy graphs.
+
+You can explore the codes to apply deep learning techniques on preloaded datasets using TensorFlow effectively.
